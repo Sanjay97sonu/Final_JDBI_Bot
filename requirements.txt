@@ -1,0 +1,39 @@
+# ✅ COMPLETE WEBSITE SCRAPER WITH PDF EXTRACTION - POSTGRESQL VERSION
+# Project Dependencies - Install with: pip install -r requirements.txt
+
+# Core Web Scraping & HTML Processing
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+lxml>=4.9.0
+
+# Natural Language Processing
+nltk>=3.8.0
+
+# Machine Learning & Vector Search
+sentence-transformers>=2.2.0
+faiss-cpu>=1.7.4
+numpy>=1.24.0
+
+# AI Integration
+anthropic>=0.7.0
+
+# Web Framework
+flask>=2.3.0
+
+# PDF Processing
+PyMuPDF>=1.23.0
+
+# Database
+psycopg2-binary>=2.9.0
+
+# Data Processing & Utilities
+pickle-mixin>=1.0.2
+base64
+
+# System Libraries (Usually pre-installed)
+os
+json
+threading
+time
+re
+collections
